@@ -1,0 +1,14 @@
+{
+  "name": "chalkish",
+  "version": "1.0.0",
+  "description": "chalk test",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"ok\")"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
